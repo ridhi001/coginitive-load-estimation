@@ -1,0 +1,7 @@
+typing_speed,inter_key_delay,key_hold_time,pause_duration,error_rate,backspace_count,load
+45,120,80,300,0.05,3,Low
+38,180,95,500,0.10,6,Medium
+30,250,120,800,0.18,10,High
+50,110,75,280,0.04,2,Low
+35,200,100,600,0.12,7,Medium
+28,270,130,900,0.20,11,High

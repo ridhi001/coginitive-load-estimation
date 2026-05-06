@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Saved models (Optional: remove this if you want your .pkl model uploaded to GitHub)
+# *.pkl
